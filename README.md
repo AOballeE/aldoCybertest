@@ -9,7 +9,7 @@
     
   - [Lab 3 - Working with functions and importing data from other files](https://github.com/UIOmenn/Lab3-Working-with-functions-and-importing-data-from-other-files#lab-3---working-with-functions-and-importing-data-from-other-files-)
  
-  - [Lab 4 - Creating a port scanner]
+  - [Lab 4 - Creating a port scanner](https://github.com/UIOmenn/Lab-4-Creating-a-port-scanner#lab-4---creating-a-port-scanner-)
 
 <h2> Certifications</h2>
 
