@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Secuirty Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (Python)</b>
+- <b>Data Structures and Algorithms Practice (Python Labs)</b>
   - [Lab 1 - Working with Decision Structures and Conditiional]
   - [Lab 2 - Functions, conditions, and if/else statements ]
   - [Lab 3 - Working with functions and importing data from other files]
