@@ -11,8 +11,12 @@
  
   - [Lab 4 - Creating a port scanner](https://github.com/UIOmenn/Lab-4-Creating-a-port-scanner#lab-4---creating-a-port-scanner-)
  
-- <b>Data Structures and Algorithms Practice (Java PA's)</b>
-  - [PA 1 - 
+- <b>Object oriented programming Practice (Java lab PA's)</b>
+  - [PA 1 - Create a program that accepts a customer's orders for hammocks. The customer gets a
+discount based on the order total (size). A sales receipt will be generated.]
+
+  - [PA 2 - Create a program that accepts a customers order for hammocks. The customer gets a discount based on the order total (size). A sales receipt will be generated.]
+ 
 <h2> Certifications</h2>
 
 - [Google Cyber Security program - currently working on]
