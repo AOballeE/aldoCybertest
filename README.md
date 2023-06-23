@@ -1,6 +1,6 @@
 <h1>Hi, I'm Aldo! <br/>Programmer</a> and <a>Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cyber Secuirty Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (Python Labs)</b>
   - [Lab 1 - Working with Decision Structures and Conditiional](https://github.com/UIOmenn/Working-with-decision-structures-and-if-else-statements#lab-1---working-with-decision-structures-and-ifelse-statements-)
