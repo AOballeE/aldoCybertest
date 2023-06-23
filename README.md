@@ -19,6 +19,6 @@ discount based on the order total (size). A sales receipt will be generated.](ht
  
 <h2> Certifications</h2>
 
-- [Google Cyber Security program - currently working on]
+- Google Cyber Security program - currently working on
 
 
