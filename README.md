@@ -2,14 +2,14 @@
 
 <h2>👨‍💻 Cyber Secuirty Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Files and Exceptions]
-  - [Decision Structures]
-  - [Working with Dictionaries]
+- <b>Data Structures and Algorithms Practice (Python)</b>
+  - [Lab 1 - Working with Decision Structures and Conditiional Statements(https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Lab 2 - Functions, conditions, and if/else statements ]
+  - [Lab 3 - Working with functions and importing data from other files]
+  - [Lab 4 - Creating a port scanner]
 
 <h2> Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cyber Security program - currently working on]
 
 
