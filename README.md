@@ -13,7 +13,7 @@
  
 - <b>Object oriented programming Practice (Java lab PA's)</b>
   - [PA 1 - Create a program that accepts a customer's orders for hammocks. The customer gets a
-discount based on the order total (size). A sales receipt will be generated.]
+discount based on the order total (size). A sales receipt will be generated.](https://github.com/UIOmenn/PA-1-Java#pa-1---create-a-program-that-accepts-a-customers-orders-for-hammocksthe-customer-gets-a-discount-based-on-the-order-total-size-a-sales-receipt-will-be-generated-)
 
   - [PA 2 - Create a program that accepts a customers order for hammocks. The customer gets a discount based on the order total (size). A sales receipt will be generated.]
  
